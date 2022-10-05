@@ -19,7 +19,7 @@
  
  
  ## Technologies utilisées :
- NodeJs, React, MongoDB, Sass.
+ NodeJs, React, Express, MongoDB, Sass.
  
  
  ## Dépendences installées :
