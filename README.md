@@ -30,7 +30,7 @@
  
  
  ## Installation :
- Clonez le projet puis ouvrez un premier terminal pour le **backend** :
+ Clonez le projet du repository https://github.com/KellyMarieB/Groupomania puis ouvrez un premier terminal pour le **backend** :
  
  Dans le repertoire Groupomania, entrez la ligne : 
  >npm install
